@@ -1,2 +1,2 @@
-# Entering-
+# Entering
 Entering the number 
